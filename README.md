@@ -55,6 +55,3 @@ export default tseslint.config({
 })
 ```
 =======
-# cv
-Mon CV
->>>>>>> f03f0c4bb8df11633b31b57e6fba56da4cc96dd4
